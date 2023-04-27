@@ -2,5 +2,6 @@
 
 LiveTermWebsite!!
 
-# USAGE:
+# USAGE
+
 Showcase software engineering skills!
