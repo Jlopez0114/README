@@ -1,5 +1,5 @@
 
-LiveTermWebsite!!
+LiveTermWebsite - Juan Lopez
 
 # USAGE
 
