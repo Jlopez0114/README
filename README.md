@@ -1,6 +1,4 @@
 
-LiveTermWebsite - Juan Lopez
+Circle CI - Juan Lopez
 
 # USAGE
-
-Showcase software engineering skills!
